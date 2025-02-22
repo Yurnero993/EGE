@@ -1,0 +1,6 @@
+text = input()
+print(text[::2])
+print(text[3:-5])
+print(text[::-1])
+print(len(text))
+print(text[1::2])
