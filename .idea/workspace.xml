@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbc0804c-e7e5-477f-bd73-32577fcff898" name="Changes" comment="gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-02-25/доп мой способ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.04.25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-03-25/24_11813.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.03.25/24_1874.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.03.25/24_20813.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +54,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.lesson 10.3.executor": "Run",
+    "Python.lesson 13.1.executor": "Run",
+    "Python.lesson 13.2.executor": "Run",
+    "Python.lesson 13.3.executor": "Run",
+    "Python.lesson 13.4.executor": "Run",
+    "Python.lesson 13.5.executor": "Run",
+    "Python.lesson 13.6.executor": "Run",
+    "Python.lesson 13.7.executor": "Run",
+    "Python.lesson 13.executor": "Run",
+    "Python.lesson 21.executor": "Run",
     "Python.lesson 8.1.executor": "Run",
     "Python.lesson10.2.executor": "Run",
     "Python.lesson10.4.executor": "Run",
+    "Python.lesson12.executor": "Run",
+    "Python.lesson19.1.executor": "Run",
+    "Python.lesson19.2.executor": "Run",
     "Python.lesson8.2.executor": "Run",
     "Python.lesson8.4.executor": "Run",
     "Python.lesson8.executor": "Run",
@@ -65,8 +79,14 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lesson10.4">
-    <configuration name="lesson 10.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ISalabayev\Desktop\EGE\26.03.25" />
+      <recent name="C:\Users\ISalabayev\Desktop\EGE\08-03-25" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lesson 21">
+    <configuration name="lesson 13.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26-02-25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-03-25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26-02-25/lesson 10.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-03-25/lesson 13.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson10.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson 13.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26-02-25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-03-25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26-02-25/lesson10.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-03-25/lesson 13.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson10.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson 21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26-02-25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26-02-25/lesson10.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson 21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson19.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22-02-25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26.03.25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22-02-25/lesson9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26.03.25/lesson19.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson9.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson19.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22-02-25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26.03.25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22-02-25/lesson9.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26.03.25/lesson19.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson10.4" />
-        <item itemvalue="Python.lesson 10.3" />
-        <item itemvalue="Python.lesson10.2" />
-        <item itemvalue="Python.lesson9.1" />
-        <item itemvalue="Python.lesson9" />
+        <item itemvalue="Python.lesson 21" />
+        <item itemvalue="Python.lesson19.2" />
+        <item itemvalue="Python.lesson19.1" />
+        <item itemvalue="Python.lesson 13.7" />
+        <item itemvalue="Python.lesson 13.4" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +254,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740592432204</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="gitignore">
+      <option name="closed" value="true" />
+      <created>1740592499658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740592499658</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gitignore">
+      <option name="closed" value="true" />
+      <created>1741196062241</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741196062241</updated>
+    </task>
+    <task id="LOCAL-00007" summary="gitignore">
+      <option name="closed" value="true" />
+      <created>1741443246497</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741443246497</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
